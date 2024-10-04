@@ -46,9 +46,6 @@ Final update of the transaction and also confirmation message
 
 ### Author
 
-Aayush Tewari
+AVIRAL SINGH
 
-Mail-id: taayush1912@gmail.com
-
-Chandigarh University
 
