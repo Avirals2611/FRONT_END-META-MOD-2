@@ -1,0 +1,43 @@
+/* styles.module.css */
+
+.container {
+  text-align: center;
+  color: rgb(251, 251, 251);
+  padding: 2rem;
+}
+
+.btn {
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  background-color: #2a1f76;
+  color: rgb(197, 230, 238);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #8ec52f;
+}
+
+.card {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  text-align: left;
+  width: 80%; /* Adjust width as needed */
+  max-width: 600px; /* Set a maximum width */
+  margin: auto;
+}
+
+.card p {
+  margin: 10px 0;
+  white-space: pre-wrap; /* Preserve line breaks and wrap text */
+}
+
+.card strong {
+  color: #37ee26;
+}
